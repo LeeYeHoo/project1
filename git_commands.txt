@@ -28,3 +28,5 @@ git clone RepositoryURL..
 
 git stash
 git pop
+
+git revert "~commit~"
