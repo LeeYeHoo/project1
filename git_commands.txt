@@ -24,3 +24,7 @@ git remote set-url origin RepositoryURL
 
 
 git clone RepositoryURL..
+
+
+git stash
+git pop
